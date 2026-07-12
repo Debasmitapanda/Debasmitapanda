@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debasmita Panda</h1>
 
 <h3 align="center">
-Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
+Full Stack Developer • AI & Machine Learning Enthusiast • Java Programmer
 </h3>
 
 
