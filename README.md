@@ -138,30 +138,34 @@ MongoDB • Express • React • Node.js • Socket.io
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debasmitapanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasmitapanda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Debasmitapanda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debasmitapanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasmitapanda&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  </a>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Debasmitapanda&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Debasmitapanda&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Debasmitapanda&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debasmitapanda&theme=github_dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debasmitapanda&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debasmitapanda&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debasmitapanda&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debasmitapanda&theme=github_dark&utcOffset=5.5" />
+</p>
+
+
 
 ## 📈 Contribution Graph
 
