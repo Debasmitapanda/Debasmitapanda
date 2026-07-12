@@ -3,17 +3,6 @@
 <h3 align="center">
 Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+%40+SOA+University;Full+Stack+MERN+Developer;AI+%7C+Machine+Learning+%7C+NLP+Enthusiast;Java+Developer;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Debasmitapanda&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Debasmitapanda?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Debasmitapanda?affiliations=OWNER&style=for-the-badge&color=yellow"/>
-</p>
-
 ---
 
 # 👩‍💻 About Me
@@ -61,10 +50,9 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 
 | Project | Description |
 |---------|-------------|
-| 🧠 **SARA** | AI-powered Sentiment Analysis & Reporting Assistant using TensorFlow, Keras & NLTK |
+
 | 🛒 **Re-Cart Marketplace** | Full Stack Marketplace with Buyer, Seller & Delivery dashboards |
-| 🌱 **Krishi Seva** | Farmer assistance platform with weather updates & government schemes |
-| ☁️ **DevOps Cloud Lab** | AWS infrastructure simulation using Docker, Terraform & LocalStack |
+| 📊 **DataPulse Analytics** | End-to-end **Data Engineering & Machine Learning** pipeline for sentiment analysis featuring automated ETL, NLP preprocessing, ML model training, interactive dashboards, real-time analytics, and report generation. Built with Python, TensorFlow, React, Node.js, MongoDB, and SQL |
 
 ---
 ## 📊 GitHub Statistics <p align="center"> <a href="https://github.com/Debasmitapanda"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debasmitapanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasmitapanda&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/> </a> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Debasmitapanda&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debasmitapanda&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debasmitapanda&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debasmitapanda&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debasmitapanda&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debasmitapanda&theme=github_dark&utcOffset=5.5" /> </p> ## 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasmitapanda&theme=tokyo-night&hide_border=true"/> </p>
