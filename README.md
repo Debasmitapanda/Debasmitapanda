@@ -78,42 +78,10 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 | ☁️ **DevOps Cloud Lab** | AWS infrastructure simulation using Docker, Terraform & LocalStack |
 
 ---
+## 📊 GitHub Statistics <p align="center"> <a href="https://github.com/Debasmitapanda"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debasmitapanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasmitapanda&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/> </a> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Debasmitapanda&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debasmitapanda&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debasmitapanda&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debasmitapanda&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debasmitapanda&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debasmitapanda&theme=github_dark&utcOffset=5.5" /> </p> ## 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasmitapanda&theme=tokyo-night&hide_border=true"/> </p>
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Debasmitapanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasmitapanda&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Debasmitapanda&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Debasmitapanda&theme=algolia&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasmitapanda&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
