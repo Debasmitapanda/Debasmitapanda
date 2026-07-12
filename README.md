@@ -31,18 +31,7 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 - Deep Learning
 - System Design
 
-💬 Ask me about
 
-- Java
-- MERN Stack
-- Machine Learning
-- NLP
-- REST APIs
-- SQL
-- Docker
-- Git & GitHub
-
----
 
 # 🛠 Tech Stack
 
@@ -95,13 +84,6 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Debasmitapanda/Debasmitapanda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
 
 ---
 
@@ -129,15 +111,6 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 
 ---
 
-<p align="center">
-
-### 💡 Favorite Quote
-
-*"Learning never exhausts the mind. Every line of code is a step toward innovation."*
-
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
