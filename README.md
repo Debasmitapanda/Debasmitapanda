@@ -3,6 +3,18 @@
 <h3 align="center">
 Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 </h3>
+
+
+
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,postman,tailwind,tensorflow"/>
+
+</p>
+
 ---
 
 # 👩‍💻 About Me
@@ -20,17 +32,6 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 - Deep Learning
 - System Design
 
-
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,postman,tailwind,tensorflow"/>
-
-</p>
-
----
 
 # 🏆 Achievements
 
