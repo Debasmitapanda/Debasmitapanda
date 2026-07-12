@@ -137,24 +137,36 @@ MongoDB • Express • React • Node.js • Socket.io
 
 
 ---
-# 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debasmitapanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasmitapanda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Debasmitapanda&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debasmitapanda&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasmitapanda&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
