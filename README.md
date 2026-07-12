@@ -21,8 +21,6 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Developer
 
 🎓 **B.Tech Computer Science & Engineering** @ SOA University
 
-📊 **CGPA:** 9.94
-
 💻 Passionate about **Full Stack Development, Artificial Intelligence, Machine Learning and NLP**
 
 🌱 Currently exploring
