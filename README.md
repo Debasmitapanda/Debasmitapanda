@@ -46,12 +46,14 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Programmer
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=Debasmitapanda&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
-## 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasmitapanda&theme=tokyo-night&hide_border=true"/> </p>
+
+# 📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasmitapanda&theme=tokyo-night&hide_border=true"/> </p>
 
 
 
