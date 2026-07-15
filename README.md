@@ -23,7 +23,7 @@ Full Stack Developer • AI & Machine Learning Enthusiast • Java Programmer
 
 💻 Passionate about **Full Stack Development, Artificial Intelligence, Machine Learning and NLP**
 
-🌱 Currently exploring
+🌱 Currently exploring:
 
 - Cloud & DevOps
 - Data Engineering
